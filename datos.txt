@@ -1,0 +1,4 @@
+id curso: 1
+nombre del cursojava
+nombre estudiante: juan
+cedula estudiante: 1222
